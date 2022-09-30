@@ -42,7 +42,7 @@ def favorite_activities():
     # you need to print out.
 
     for i in range(len(days)):
-        print(f'On {days[i]}s , your favorite activity is to {favorite_activities[i]}.')
+        print(f'On {days[i]}s, your favorite activity is to {favorite_activities[i]}.')
 # favorite_activities()
 
 # '''
